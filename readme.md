@@ -1,7 +1,7 @@
-#Welcome to my Network Stuff Repo!
+# Welcome to my Network Stuff Repo!
 This is a repository of knowledge I've gained over the years, tips, tricks, and shortcuts.
 
-##Osi Model Mnemonic 
+## Osi Model Mnemonic 
 
 | Pams     | Physical     |
 |----------|--------------|
@@ -13,13 +13,13 @@ This is a repository of knowledge I've gained over the years, tips, tricks, and 
 | Again    | Application  |
 
 
-##Juniper
+## Juniper
 
 
-##Adtran
+## Adtran
 
-##Cisco
+## Cisco
 
-##F5
+## F5
 
 #
