@@ -2,11 +2,11 @@
 This is a repository of knowledge I've gained over the years, tips, tricks, and shortcuts.
 
 ## Osi Model Mnemonic 
-
-| Pams     | Physical     |
+| Mnemonic | OSI Layer    |
 |----------|--------------|
+| Pams     | Physical     |
 | Dad      | Data-Link    |
-| Never    | Netowork     |
+| Never    | Network      |
 | Touched  | Transport    |
 | Scalding | Session      |
 | Pie      | Presentation |
