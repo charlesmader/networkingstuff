@@ -24,19 +24,19 @@ This is a repository of knowledge I've gained over the years in Telecom land.
 
 ## Vendor Specific Sections
 
-** Juniper
+:black_small_square: Juniper
 
-** Adtran
+:black_small_square: Adtran
 
-** Cisco
+:black_small_square: Cisco
 
-** F5
+:black_small_square: F5
 
-** VMware
+:black_small_square: VMware
 
-** Velocloud
+:black_small_square: Velocloud
 
 ## Networking Tools
 <p>
-	&nbsp;&nbsp;:black_circle: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis.<br>
+	&nbsp;&nbsp;:black_small_square: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis.<br>
 </p>
