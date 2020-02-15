@@ -5,7 +5,6 @@ This is a repository of knowledge I've gained over the years in Telecom land.
 ## To Do List
 
 - [ ] Add Juniper stuff
-- [ ] Add Wireshark stuff
 - [ ] Add links to external vendors etc
 - [ ] Create new "VMware" section
 - [ ] Create new "Docker" section
@@ -24,19 +23,19 @@ This is a repository of knowledge I've gained over the years in Telecom land.
 
 ## Vendor Specific Sections
 
-:black_small_square: Juniper
+:small_blue_diamond: Juniper
 
-:black_small_square: Adtran
+:small_blue_diamond: Adtran
 
-:black_small_square: Cisco
+:small_blue_diamond: Cisco
 
-:black_small_square: F5
+:small_blue_diamond: F5
 
-:black_small_square: VMware
+:small_blue_diamond: VMware
 
-:black_small_square: Velocloud
+:small_blue_diamond: Velocloud
 
 ## Networking Tools
 <p>
-	&nbsp;&nbsp;:black_small_square: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis.<br>
+	&nbsp;&nbsp;:small_blue_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis. If something strange is going on in your network, build a mirror on your switch or use a <a href="https://greatscottgadgets.com/throwingstar/"><b>lan tap</b></a> and capture packets in line. Never under-estimate the power of the PCAP.<br>
 </p>
