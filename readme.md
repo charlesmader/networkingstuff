@@ -38,5 +38,5 @@ This is a repository of knowledge I've gained over the years in Telecom land.
 
 ## Networking Tools
 <p>
-	&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis.<br>
+	&nbsp;&nbsp;:black_circle: <a href="https://www.wireshark.org/"><b>Wireshark</b></a> - The big dog of packet captures and analysis.<br>
 </p>
